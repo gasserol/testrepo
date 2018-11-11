@@ -1,0 +1,12 @@
+{
+    "name": "gasserol/testrepo",
+    "description": "Simple repo to test runcloud git and atomic deployment",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/2amigos/yii2-app-usuario-template/issues?state=open",
+        "source": "https://github.com/2amigos/yii2-app-usuario-template"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+    }
+}
